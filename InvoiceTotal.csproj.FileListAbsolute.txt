@@ -1,0 +1,20 @@
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\TD\source\repos\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\C# 2015\Chapter 03\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2015\Chapter 03\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2015\Chapter 03\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\C# 2015\Chapter 03\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
